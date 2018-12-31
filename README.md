@@ -1,12 +1,3 @@
----
-output: 
-  html_document: 
-    keep_md: yes
----
-
-[![Watch on GitHub][github-watch-badge]][github-watch]
-[![Star on GitHub][github-star-badge]][github-star]
-
 # faobulk R package
 
 Search and download FAOSTAT bulk download files
