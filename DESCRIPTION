@@ -1,0 +1,21 @@
+Package: faobulk
+Type: Package
+Title: Search and download FAOSTAT bulk download files
+Version: 0.1.0
+Author: Markus Kainu
+Maintainer: Markus Kainu <muuankarski@kapsi.fi>
+Description: Download bulk download files from FAOSTAT
+Depends:
+    methods,	
+    R (>= 3.1.0)
+Imports:
+    dplyr,
+    readr,    
+    xml2
+License: MIT
+Encoding: UTF-8
+LazyData: true
+BugReports: https://github.com/muuankarski/faobulk/issues
+VignetteBuilder: knitr
+NeedsCompilation: no
+RoxygenNote: 6.1.1
